@@ -6,3 +6,5 @@ Day 2: Learnt basics of Javascript
 Day 3: Learnt intermediate Javascript
 
 Day 4: Started with DOM
+
+Day 5: break time
